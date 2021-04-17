@@ -56,11 +56,11 @@ The project is live
 
 1. Clone or download this repository
    ```
-   git clone https://github.com/itspladd/quiz-app
+   git clone https://github.com/ahhreggi/inquizitor-app
    ```
 2. Navigate to the project directory and install dependencies
    ```
-   cd quiz-app
+   cd inquizitor-app
    npm install
    ```
 3. Set up a local PostgreSQL db and seed the database
