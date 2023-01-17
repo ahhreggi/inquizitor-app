@@ -5,11 +5,7 @@
 <p>A full-stack application for generating and sharing quizzes
 </p>
 
-<p>Built with <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://expressjs.com/">Express</a>, <a href="https://www.postgresql.org/">PostgreSQL</a>, <a href="https://jquery.com">jQuery</a>, CSS/<a href="https://sass-lang.com/">SASS</a>, <a href="https://getbootstrap.com/docs/4.6/">Bootstrap 4</a>, and hosted with <a href="https://www.heroku.com/">Heroku</a></p>
-
-<b><a href="https://inquizitor-app.herokuapp.com/" target="_blank">
-   » View Live Demo «
-</a></b>
+<p>Built with <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://expressjs.com/">Express</a>, <a href="https://www.postgresql.org/">PostgreSQL</a>, <a href="https://jquery.com">jQuery</a>, CSS/<a href="https://sass-lang.com/">SASS</a> and <a href="https://getbootstrap.com/docs/4.6/">Bootstrap 4</a>
 
 </div>
 
@@ -17,7 +13,7 @@
 
 ## 📚 Introduction
 
-<b>[InquizitorApp](https://inquizitor-app.herokuapp.com/)</b> is a RESTful, responsive full-stack web application that allows users to create, modify, and take quizzes, as well as share their results.
+<b>InquizitorApp</b> is a RESTful, responsive full-stack web application that allows users to create, modify, and take quizzes, as well as share their results.
 
 Created by Maria Regina Sirilan ([**@ahhreggi**](https://github.com/ahhreggi)) and Paul Ladd ([**@itspladd**](https://github.com/itspladd)).
 
@@ -50,9 +46,6 @@ Paul Ladd ([**@itspladd**](https://github.com/itspladd)) - *Back-end architectur
 <!-- INSTALLATION -->
 
 ## 🛠 Installation
-
-The project is live
-<b><a href="https://inquizitor-app.herokuapp.com/" target="_blank">here</a></b>, but if you would prefer a local installation:
 
 1. Clone or download this repository
    ```
